@@ -6,4 +6,4 @@
 
 可以点击[这里]([Document](https://mushroom0322.github.io/frieren2048/))试试！
 
-![微信图片_20231020160423.jpg](C:\Users\yao\Desktop\微信图片_20231020160423.jpg)
+![999.jpg](images\999.jpg)
